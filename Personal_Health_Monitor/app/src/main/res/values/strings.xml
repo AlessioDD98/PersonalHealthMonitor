@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Personal Health Monitor</string>
+    <string name="Bottone_GR">Gestisci Report</string>
+    <string name="Bottone_Calendario">Visualizza Report</string>
+    <string name="Bottone_Grafici">Visualizza Grafici</string>
+    <string name="Agg_Repp">Aggiungi Report</string>
+    <string name="Mod_Repo">Modifica Report</string>
+    <string name="Elim_Repo">Elimina Report</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Ins_Report">Inserisci Report</string>
+    <string name="SR">Seleziona Report</string>
+</resources>
